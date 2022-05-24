@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-<!--
-**WangWei1129/wangwei1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p> 
 <img src="https://github-readme-stats.vercel.app/api?username=wangwei1129&show_icons=true" alt="logo" align="right" style="margin-booton:20px;"/>
 </p>
+<!--
+**WangWei1129/wangwei1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
