@@ -1,4 +1,7 @@
-### Hi there 👋
+  ### Hi there 👋
+- 🔭 java开发后端 ...
+- 🌱 天天筛网,不打鱼 ...
+
 <p> 
 <img src="https://github-readme-stats.vercel.app/api?username=wangwei1129&show_icons=true" alt="logo" align="right" style="margin-booton:20px;"/>
 </p>
